@@ -1,6 +1,6 @@
-# ¡Hola! Soy Tomás Gabriel Rios 👋
+# ¡Hola! Soy Tomás 👋
 
-Soy un apasionado de la tecnología y los sistemas, actualmente cursando la **Tecnicatura Universitaria en Programación en la UTN**. Mi enfoque combina la lógica de software con la experiencia práctica en mantenimiento técnico y automatización.
+Soy un apasionado de la tecnología y los sistemas, actucalmente ursando la **Tecnicatura Universitaria en Programación en la UTN**. Mi enfoque combina la lógica de software con la experiencia práctica en mantenimiento técnico y automatización.
 
 ### 🛠️ Tecnologías y Herramientas
 
@@ -9,11 +9,6 @@ Soy un apasionado de la tecnología y los sistemas, actualmente cursando la **Te
 * **Base de Datos:** Gestión y estructuración de datos.
 * **Hardware:** Diagnóstico y reparación de sistemas automatizados y vending.
 
-### 🚀 Mis Proyectos
-* **Desarrollo en Pawn:** Proyectos de optimización utilizando librerías avanzadas como YSI.
-* **Automatización:** Aplicando lógica de sistemas para resolver problemas operativos reales.
-* **Aprendizaje UTN:** Repositorios con ejercicios y desafíos de la facultad.
-
 ### 📈 Mi actividad en GitHub
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO_ACA&layout=compact&theme=vision-glow)
 
@@ -21,6 +16,6 @@ Soy un apasionado de la tecnología y los sistemas, actualmente cursando la **Te
 
 ### 📫 Contacto
 - **LinkedIn:** [/in/tu-perfil](https://linkedin.com/in/tu-perfil)
-- **Ubicación:** Don Torcuato, Buenos Aires, Argentina.
+- **Ubicación:** Buenos Aires, Argentina.
 
 *"La mejor forma de predecir el futuro es programarlo."*
