@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tomás</h1>
-- 🔭 I’m currently working on **IoT Proye**
+- 🔭 I’m currently working on **IoT Project**
 
-- 🌱 I’m currently learning **Go**
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
